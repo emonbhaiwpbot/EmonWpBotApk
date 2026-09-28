@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "app": "EMON MINI BOT",
+  "creator": "EMon Hawladar",
+  "devices": [
+    {
+      "deviceId": "EMON-A8F39K21",
+      "name": "Emon",
+      "activationCode": "X7K9-P2M4",
+      "generatedAt": "2026-09-29T01:05:22+08:00",
+      "status": "active"
+    },
+    {
+      "deviceId": "EMON-B7K42L91",
+      "name": "Rahim",
+      "activationCode": "P8Q2-Z6W4",
+      "generatedAt": "2026-09-29T02:15:10+08:00",
+      "status": "active"
+    },
+    {
+      "deviceId": "EMON-C5M81R63",
+      "name": "Karim",
+      "activationCode": "H4N8-Y3T6",
+      "generatedAt": "2026-09-29T03:20:45+08:00",
+      "status": "active"
+    }
+  ]
+}
