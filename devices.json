@@ -4,12 +4,12 @@
   "creator": "EMon Hawladar",
   "devices": [
     {
-      "deviceId": "EMON-A8F39K21",
-      "name": "Emon",
-      "activationCode": "X7K9-P2M4",
-      "generatedAt": "2026-09-29T01:05:22+08:00",
-      "status": "active"
-    },
+  "deviceId": "EMON-77DE3BFB",
+  "name": "Emon",
+  "activationCode": "868D-0DC1",
+  "generatedAt": "2026-09-29T01:38:02+08:00",
+  "status": "active"
+},
     {
       "deviceId": "EMON-B7K42L91",
       "name": "Rahim",
